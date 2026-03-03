@@ -4,6 +4,6 @@
 ,soy honesta,amo la musica,amo patinar,me gusta que las personas se sientan bien,soy una persona muy callada ,timida ,pero eso no es un problema para mostrar lo que soy capaz de hacer***
 
  ## ¿ que es morkdow ?
-**Markdown es un lenguaje de marcado sencillo que sirve para dar formato al texto sin usar botones ni herramientas complicadas. En vez de seleccionar con el mouse, usas símbolos del teclado para organizar y destacar la información**
+***Markdown es un lenguaje de marcado sencillo que sirve para dar formato al texto sin usar botones ni herramientas complicadas. En vez de seleccionar con el mouse, usas símbolos del teclado para organizar y destacar la información***
  
  
